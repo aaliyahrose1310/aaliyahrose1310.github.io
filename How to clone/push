@@ -1,0 +1,40 @@
+(.venv) aaliyahrose@eduroam-campus-10-36-154-32 p390  % pwd
+/Users/aaliyahrose/p390 
+(.venv) aaliyahrose@eduroam-campus-10-36-154-32 p390  % ls
+WorkingPosner.py                import-pygame.py
+aaliyahrose1310.github.io       posner_results.pkl
+(.venv) aaliyahrose@eduroam-campus-10-36-154-32 p390  % cd aaliyahrose1310.github.io 
+(.venv) aaliyahrose@eduroam-campus-10-36-154-32 aaliyahrose1310.github.io % echo "hello worl
+d" > index.html
+(.venv) aaliyahrose@eduroam-campus-10-36-154-32 aaliyahrose1310.github.io % ls
+README.md       index.html
+(.venv) aaliyahrose@eduroam-campus-10-36-154-32 aaliyahrose1310.github.io % git add index.ht
+ml
+(.venv) aaliyahrose@eduroam-campus-10-36-154-32 aaliyahrose1310.github.io % git commit -m "M
+y first commit"
+[main b6216c1] My first commit
+ Committer: aaliyah rose <aaliyahrose@eduroam-campus-10-36-154-32.campus-dynamic.uwaterloo.ca>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 index.html
+(.venv) aaliyahrose@eduroam-campus-10-36-154-32 aaliyahrose1310.github.io % git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 321 bytes | 321.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/aaliyahrose1310/aaliyahrose1310.github.io.git
+   4bc28df..b6216c1  main -> main
+(.venv) aaliyahrose@eduroam-campus-10-36-154-32 aaliyahrose1310.github.io % 
